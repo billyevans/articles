@@ -1,1 +1,18 @@
 theme: jekyll-theme-midnight
+
+name: billyevans
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
