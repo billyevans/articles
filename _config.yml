@@ -19,13 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 name: billyevans
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
 
 title: Blog feed
 email: pervushinai@gmail.com
@@ -36,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  billyevans
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
