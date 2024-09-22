@@ -18,18 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: billyevans
-
+theme: jekyll-theme-hacker
 title: Blog feed
 email: pervushinai@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog posts about everything from Alexey Pervushin.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+name: billyevans
 github_username:  billyevans
-
 # Build settings
-theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
