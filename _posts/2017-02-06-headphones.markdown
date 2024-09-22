@@ -1,5 +1,7 @@
 ---
 title: Headphones
+layout: post
+author: billyevans
 ---
 
 Here you can find my very subjective feedback on headphones I was used in my life.  

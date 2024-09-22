@@ -27,10 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  billyevans
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -41,6 +40,8 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
 #   - .sass-cache/

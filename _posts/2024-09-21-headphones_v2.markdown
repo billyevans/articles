@@ -1,5 +1,7 @@
 ---
-title: Headphones new additions
+title: Headphones, new additions
+layout: post
+author: billyevans
 ---
 
 11. [Sennheiser HD 6XX](https://drop.com/buy/massdrop-sennheiser-hd6xx) ★★★★★  
