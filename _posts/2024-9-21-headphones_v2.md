@@ -4,6 +4,7 @@ layout: post
 author: billyevans
 tag: headphones
 ---
+Continue of original [post]({% post_url 2017-2-6-headphones %})  
 
 11. [Sennheiser HD 6XX](https://drop.com/buy/massdrop-sennheiser-hd6xx) ★★★★★  
 Really decent and neutral sound overall. Some fusion of Sennheiser HD 600 and HD 650 models. For the price about $200 it's absolutely best value.  
